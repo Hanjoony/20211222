@@ -24,5 +24,7 @@ int main()
 	cout << Triangle << endl;
 
 
+	// 집에서 주석 추가
+
 	return 0;
 }
